@@ -1,6 +1,6 @@
 # chfeng00.github.io
 
-<h2>Feng-Home-Inspection<h2>
+<h2>Feng-Home-Inspection</h2>
   
   [Feng Home Inspection Website](http://fenghomeinspection.ca/)
 
